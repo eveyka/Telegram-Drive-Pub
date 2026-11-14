@@ -28,11 +28,11 @@
 ## 📥 Direct APK Download
 
 Download the official release APK directly:
-- **Latest Version**: `v1.0.1`
-- **File Size**: `11.8 MB`
+- **Latest Version**: `v1.0.0`
+- **File Size**: `~35 MB` (Universal Release)
 - **Minimum Android**: Android 7.0+ (Nougat and above)
-- **Direct Download Link**: [Download tg-drive-v1.0.1.apk](https://github.com/eveyka/Telegram-Drive-Pub/releases/download/v1.0.1/tg-drive-v1.0.1.apk)
-- **Local Download**: [tg-drive-v1.0.1.apk](./downloads/tg-drive-v1.0.1.apk)
+- **Official GitHub Direct Download**: [Download tg-drive-v1.0.0.apk](https://github.com/eveyka/Telegram-Drive-Pub/releases/download/v1.0.0/tg-drive-v1.0.0.apk)
+- **Cloudflare Mirror**: [https://telegram-drive-8d2.pages.dev/downloads/tg-drive-v1.0.0.apk](https://telegram-drive-8d2.pages.dev/downloads/tg-drive-v1.0.0.apk)
 
 ---
 
